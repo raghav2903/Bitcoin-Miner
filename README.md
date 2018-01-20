@@ -65,7 +65,7 @@ Implementation Details:
 		
 	3. The coin with the most number of leading zeroes that we were able to find - 8 zeroes.
 	
-	4. 	The largest number of working machines we tested our code on was with 5 machines (4 miners and one master).
+	4. The largest number of working machines we tested our code on was with 5 machines (4 miners and one master).
 	
 		
 			
